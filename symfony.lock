@@ -1,4 +1,7 @@
 {
+    "antonio150/uploadimagebundle": {
+        "version": "dev-main"
+    },
     "doctrine/doctrine-bundle": {
         "version": "2.13",
         "recipe": {

@@ -1,0 +1,4 @@
+upload_image:
+    documents_dir: 'E:\Mes Projets\menu_app_test/public/uploads/documents'
+    videos_dir: 'E:\Mes Projets\menu_app_test/public/uploads/videos'
+    images_dir: 'E:\Mes Projets\menu_app_test/public/uploads/images'
